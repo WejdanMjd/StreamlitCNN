@@ -13,6 +13,12 @@ We use the **ResNet model** in transfer learning to leverage pre-trained feature
 **and Model 3**
 The **CNN first model** achieves 67% accuracy
 
+**Group 6:**
+**Neural Vision***
+Ranwah Sadik
+Razan Alkhamisi
+Wejdan Alharthi
+
 
 ## Features
 - Upload images for classification.
