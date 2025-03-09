@@ -13,7 +13,7 @@ The **MobileNet model** achieves high accuracy (95% on training, 94% on validati
 **Model 2** 
 We use the **ResNet model** in transfer learning to leverage pre-trained features, improving our model’s accuracy by adapting it to a new task with fewer data.
 
-** Model 3**
+**Model 3**
 The **CNN first model** achieves 67% accuracy
 
 # **Group 6:**
