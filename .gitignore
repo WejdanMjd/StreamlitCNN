@@ -1,0 +1,18 @@
+.anaconda/
+.bash_history
+.bash_profile
+.conda/
+.gitconfig
+.ipython/
+.jupyter/
+.keras/
+.matplotlib/
+AppData/
+Downloads/
+OneDrive/
+Videos/
+Music/
+Favorites/
+Contacts/
+Saved Games/
+NTUSER.*
